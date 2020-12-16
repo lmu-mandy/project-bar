@@ -11,7 +11,7 @@ We have code available in Keras and Pytorch. However, the Pytorch code still nee
 is in Keras.
 
 ### How to run code
-In order to run the code follow these steps:
+In order to run the code, follow these steps:
 1. Clone the repository
 2. Download the data
 3. Create a free google account (in case you do not have it already)
