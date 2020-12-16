@@ -8,3 +8,13 @@ For convenience, we have also shared the data on [drive](https://drive.google.co
 
 ## Code
 We have code available in Keras and Pytorch. However, the Pytorch code still needs improvement.
+
+### How to run code
+In order to run the code follow the following steps:
+1. Clone the repository
+2. Download data
+3. Create a free google account (in case you do not have it already)
+4. Upload data and `attention.py` to your Google Drive (for the pytorch code only data is needed)
+5. Open `summarization.py` (or any of pytorch files) and go to Google Colab's link on top of the file
+6. Create a copy of the file (go to File, then, Save a Copy on Drive)
+7. Run the code
