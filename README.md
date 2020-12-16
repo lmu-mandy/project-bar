@@ -7,7 +7,8 @@ The dataset is the open-source amazon food reviews. It is available on [kaggle](
 For convenience, we have also shared the data on [drive](https://drive.google.com/drive/folders/1h5wJjjJMkld0m2sggUGqaQ1BMs2M7o8h?usp=sharing).
 
 ## Code
-We have code available in Keras and Pytorch. However, the Pytorch code still needs improvement.
+We have code available in Keras and Pytorch. However, the Pytorch code still needs improvement. Our main code
+is in Keras.
 
 ### How to run code
 In order to run the code follow these steps:
